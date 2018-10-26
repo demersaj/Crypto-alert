@@ -1,0 +1,22 @@
+{
+	"markets":[
+		{
+			"name":"BTCUSDT",
+			"active":true,
+			"max":6500.00,
+			"min":6400.00
+		},
+		{
+			"name":"XRPBTC",
+			"active":true,
+			"max":0.00007200,
+			"min":0.00007000
+		},
+		{
+			"name":"XRPUSDT",
+			"active":true,
+			"max":0.46500,
+			"min":0.4000
+		}
+	]
+}
